@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+package procurementmanagement;
 /**
  *
  * @author hp
@@ -123,7 +123,8 @@ public class Employee {
             Logger.getLogger(Accessories.class.getName()).log(Level.SEVERE, null, ex);
         }
                
-               
+    }
+}
         
 
-}
+
